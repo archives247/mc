@@ -1,0 +1,8 @@
+Enter the data bits (use 1 or -1):
+Enter D1: 1
+Enter D2: -1
+Enter D3: 1
+Enter D4: -1
+Resultant Channel: [0 4 0 0]
+Enter the station to listen (C1=1, C2=2, C3=3, C4=4): 2
+Recovered Data Bit: -1
